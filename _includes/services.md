@@ -11,6 +11,6 @@
 <h4 style="margin:0 10px 0;">Data Analysis</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>Data Analysis and Machine Intelligence </autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Statistical Analysis </autocolor></a></li>
+  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>Data Analysis and Machine Intelligence </autocolor></a></li>
 </ul>
