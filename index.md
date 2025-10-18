@@ -2,14 +2,16 @@
 layout: homepage
 ---
 
-## About Me
+## Biography
 
-I am a Ph.D. student at ...
+A disciple of Mathematical Physics and Statistical Mathematics, decoding the laws of natural phenomena.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Probability Theory:** Percolation theory and interacting particle systems.
+- **Markovian Semigroups:** Extending classical probability to quantum systems.
+- **Stochastic Partial Differential Equations :**  Stochastic PDEs reveal fluid behavior through hydrodynamic scaling limits.
+- **Stochastic Geometry and Random Geometry:** Geometry shaped by randomness, revealing patterns in uncertain space.
 
 ## News
 
