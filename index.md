@@ -16,8 +16,6 @@ A disciple of Mathematical Physics and Statistical Mathematics, decoding the law
 ## Newscast
 
 - **[Jan. 2026]** Our paper about incremental learning is accepted to CVPR 2020 ICTS Bangalore.
-
-![CVPR Banner](assets/images/GGGG.jpg)
   
 
 {% include_relative _includes/publications.md %}
