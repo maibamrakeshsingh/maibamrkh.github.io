@@ -13,7 +13,7 @@ A disciple of Mathematical Physics and Statistical Mathematics, decoding the law
 - **Stochastic Partial Differential Equations :**  Stochastic PDEs reveal fluid behavior through hydrodynamic scaling limits.
 - **Stochastic Geometry and Random Geometry:** Geometry shaped by randomness, revealing patterns in uncertain space.
 
-## News
+## Newscast
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
